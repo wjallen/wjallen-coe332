@@ -5,7 +5,7 @@ repository should be called something like "username-coe332". Within, create
 separate subfolders for each homework called "homework01", "homework02", etc.
 
 Please push your homeworks into the appropriate folder by the due date / time.
-The instructurs will clone your repo on the due date / time for evaluation.
+The instructors will clone your repo on the due date / time for evaluation.
 
 The directory structure should look something like:
 
