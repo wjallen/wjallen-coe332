@@ -19,7 +19,7 @@ These scripts help with understanding meteorite landings and perform accurate ge
         - Specifies python3 as the default command
 
 - **`diagram.png`**
-    - ![Software Architecture Diagram](diagram.png)
+    - ![Software Architecture Diagram](diagram4.png)
     - The diagram above illustrates the overall structure of the Meteorite Data Analysis Homework. It shows how the user connects via SSH to a TACC virtual machine, which runs Docker to containerize the Python scripts. Inside the container, different scripts handle data analysis, great-circle distance calculations, and unit testing. The input dataset (`Meteorite_Landings.csv`) is mounted at runtime, and the results are displayed after execution.
 
 ### Python Scripts
